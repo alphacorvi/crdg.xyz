@@ -55,10 +55,12 @@
 > | --- | --- |
 > | **Usage** | - left click to lick  |
 
-i dont know how to obtain ice cream as of now, WIP.
+Can be found on the left back side on one of the beams
 
 ---
 
 ## Usage
 
-(WIP, someone please do this)
+ Ice cream can be found at the Cathedral. It can be licked, but the second time you lick it you get a brainfreeze, taking 33% of your health. It has no lick cooldown.
+
+only on christmas
